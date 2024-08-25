@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692929988605",
+    "project_id": "touchbase-c801e",
+    "storage_bucket": "touchbase-c801e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692929988605:android:0f88b03b1312c17e9bbb94",
+        "android_client_info": {
+          "package_name": "net.runner.asme_iitr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEi4kMwENrA9yFLTMA1Sj3P8hgtMaFgCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
